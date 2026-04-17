@@ -90,8 +90,9 @@
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/Components/ili9341"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/Components/stmpe811"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/STM32F429I-Discovery"/>
-						<entry excluding="stm32f4xx_hal_timebase_tim_template.c|stm32f4xx_hal_timebase_rtc_wakeup_template.c|stm32f4xx_hal_msp_template.c|stm32f4xx_hal_eth.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/STM32F4xx_HAL_Driver/Src"/>
+						<entry excluding="stm32f4xx_hal_adc.c|stm32f4xx_hal_adc_ex.c|stm32f4xx_hal_timebase_tim_template.c|stm32f4xx_hal_timebase_rtc_wakeup_template.c|stm32f4xx_hal_msp_template.c|stm32f4xx_hal_eth.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/STM32F4xx_HAL_Driver/Src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -180,8 +181,9 @@
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/Components/ili9341"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/Components/stmpe811"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/BSP/STM32F429I-Discovery"/>
-						<entry excluding="stm32f4xx_hal_timebase_tim_template.c|stm32f4xx_hal_timebase_rtc_wakeup_template.c|stm32f4xx_hal_msp_template.c|stm32f4xx_hal_eth.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/STM32F4xx_HAL_Driver/Src"/>
+						<entry excluding="stm32f4xx_hal_adc.c|stm32f4xx_hal_adc_ex.c|stm32f4xx_hal_timebase_tim_template.c|stm32f4xx_hal_timebase_rtc_wakeup_template.c|stm32f4xx_hal_msp_template.c|stm32f4xx_hal_eth.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers/Drivers/STM32F4xx_HAL_Driver/Src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
